@@ -1,0 +1,14 @@
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const SIGNUP_ERROR = 'SIGNUP_ERROR';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNOUT = 'SIGNOUT';
+export const SIGNIN_SUCCESS = 'SIGNIN_SUCCESS';
+export const SIGNIN_ERROR = 'SIGNIN_ERROR';
+export const CLEAR_AUTH_ERRORS = 'CLEAR_AUTH_ERRORS';
+export const GET_FOLDERS = 'GET_FOLDERS';
+export const GOT_FOLDERS = 'GOT_FOLDERS';
+export const FOLDERS_ERRORS = 'FOLDERS_ERRORS';
+export const CLEAR_FOLDERS_ERRORS = 'CLEAR_FOLDERS_ERRORS';
+export const GET_FOLDER = 'GET_FOLDER';
+export const GET_FILE = 'GET_FILE';

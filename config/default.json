@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@codeconference-qnfgj.mongodb.net/CodeConference?retryWrites=true&w=majority",
+  "jwtSecret": "codeConferenceByRobinAndSajed"
+}
